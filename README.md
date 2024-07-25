@@ -2,7 +2,7 @@
 <img src="https://github.com/Rsaha-16/Rsaha-16/blob/main/banner.gif" alt="logo" height="400" width="1000">
 
 <h1 align="center">Hi 👋, I'm Rajarshi Saha</h1>
-<h3 align="center">A Computer Science MSc student from India</h3>
+<h3 align="center">A Computer Science student from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
