@@ -1,3 +1,5 @@
+![logo](https://github.com/Rsaha-16/Rsaha-16/blob/main/banner.gif)
+
 <h1 align="center">Hi 👋, I'm Rajarshi Saha</h1>
 <h3 align="center">A Computer Science MSc student from India</h3>
 
