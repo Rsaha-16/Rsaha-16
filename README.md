@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Deep Learning and Natural Language Processing to develop Llama models.**
 
-- 👨‍💻 All of my projects are available at [https://rajarshi-portfolio.netlify.app/](https://rajarshi-portfolio.netlify.app/)
-
 - 📫 How to reach me **saharajarshi7126@gmail.com**
 
 - ⚡ Fun fact **is I love to play Games**
