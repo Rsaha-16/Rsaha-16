@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Deep Learning and Natural Language Processing to develop Llama models.**
 
-- 📫 How to reach me **saharajarshi7126@gmail.com**
+- 📫 How to reach me <a href="mailto:saharajarshi7126@gmail.com" style="text-decoration: none;">**saharajarshi7126@gmail.com**</a>
 
 - ⚡ Fun fact **is I love to play Games**
 
