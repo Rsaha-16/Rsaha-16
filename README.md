@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsaha-16&label=Profile%20views&color=0e75b6&style=flat" alt="rsaha-16" /> </p>
 
-- 🔭 I’m currently working on **Project - Stock Market Prediction.**
+- 🔭 I’m currently working on **Project - Smart Contract Development on Blockchain using Time Series Forecasting.**
 
 - 🌱 I’m currently learning **Deep Learning and Natural Language Processing to develop Llama models.**
 
